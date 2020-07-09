@@ -5,6 +5,8 @@ Spigot plugin developed for Genesis Recommendation System UROP, Summer of 2020. 
 
 **Note that you do not need to clone this repo to test the raycasting algorithm. Simply download the server file to test the algorithm, and you can use the repo to view the source and see how the algorithm is implemented.**
 
+Server file link: https://drive.google.com/file/d/1TPjnvjTQzYshLtgaBUA0BFFYqv1PBt5C/view?usp=sharing 
+
 1) UNZIP the VisibilityRaytracingServer.zip file. This will hold the Minecraft server that you will need to run and join.
 
 2) Within the VisibilityRaytracingServer folder, there should be a start.sh file. Execute this file and the server should start up (this works for Mac and Linux. For windows computers, use the RUN.bat file instead). The server is ready when it states "Done (XXXs)". The server is on 1.16.1.
