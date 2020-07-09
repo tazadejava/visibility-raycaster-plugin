@@ -1,0 +1,12 @@
+name: VisibilityRaytracerPlugin
+version: 1.0
+api-version: 1.13
+main: me.tazadejava.raytracer.RayTracerPlugin
+commands:
+  raycast:
+    description: Main command to handle raycasting algorithm.
+    permission: oponly
+permissions:
+  oponly:
+    description: Allows usage of raycast command.
+    default: op
